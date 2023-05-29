@@ -1,5 +1,10 @@
 # Fish_Tracking
-한국 양식 어종(5종)에 대하여 비젼을 통한 위치 추적 프로젝트
+
+<div align=center>
+	<h3>📚 Fish-Tracking 📚</h3>
+	<p>✨ 한국 양식 어종(5종)에 대하여 비젼을 통한 위치 추적 프로젝트 ✨</p>
+</div>
+
 \n
 프로젝트 환경
 model : Yolov8
@@ -15,10 +20,7 @@ memory : 16 GB
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yermi%20Github!&fontSize=90" />	
 </div>
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-</div>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
