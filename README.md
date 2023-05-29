@@ -1,2 +1,11 @@
 # Fish_Tracking
-한국 양식 어종에 대하여 비젼을 통한 위치 추적 프로젝트
+한국 양식 어종(5종)에 대하여 비젼을 통한 위치 추적 프로젝트
+
+프로젝트 환경
+model : Yolov8
+data : https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=116&topMenu=100&aihubDataSe=ty&dataSetSn=154
+gpu : NVIDIA GeForce RTX 3080 Laptop GPU
+[Python-3.10.11 / torch-2.1.0 / cuda 12.1]
+memory : 16 GB
+
+
