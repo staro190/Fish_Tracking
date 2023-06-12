@@ -1,0 +1,10 @@
+names:
+  0: Rock bream
+  1: Olive flounder
+  2: Korea rockfish
+  3: Red seabream
+  4: Black porgy
+nc: 5
+test: C:/Users/AI-Testing-Laptop1/Yolov8/test.txt
+train: C:/Users/AI-Testing-Laptop1/Yolov8/train.txt
+val: C:/Users/AI-Testing-Laptop1/Yolov8/valid.txt
